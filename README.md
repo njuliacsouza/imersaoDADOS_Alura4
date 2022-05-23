@@ -1,5 +1,5 @@
-<h1 align=center> Imersão Dados 4º edição </h1>
-<h2> Alura </h2>
+<h1 align=center> Imersão Dados </h1>
+<h2> Alura - 4º edição </h2>
 <h3> 23 a 27 de maio de 2022 </h3>
 <p>
   <ul>
