@@ -3,6 +3,6 @@
 <h3> 23 a 27 de maio de 2022 </h3>
 <p>
   <ul>
-    <li> Aula 1</li>
+    <li> Aula 1: Seu primeiro colab com Python e Pandas </li>
   </ul>
 </p>
