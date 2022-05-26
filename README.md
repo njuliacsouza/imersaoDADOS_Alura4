@@ -5,6 +5,7 @@
   <ul>
     <li> Aula 1: Seu primeiro colab com Python e Pandas </li>
     <li> Aula 2: Tratamento de dados faltantes e primeiros gráficos </li>
-    <li> Aula 3> Gráficos, Time Series e Análise Exploratória </li>
+    <li> Aula 3: Gráficos, Time Series e Análise Exploratória </li>
+    <li> Aula 4: Missão Impossível: Cruzando bases de dados </li>
   </ul>
 </p>
